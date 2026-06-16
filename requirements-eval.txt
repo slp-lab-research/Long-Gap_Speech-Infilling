@@ -1,0 +1,13 @@
+# Quantitative evaluation environment for generated gap-infilling wavs.
+# Install this in a separate environment from the VoiceCraft-X training env.
+
+torch==2.1.0
+torchaudio==2.1.0
+numpy==1.26.4
+scipy==1.11.4
+soundfile==0.14.0
+jiwer==3.1.0
+openai-whisper==20250625
+pesq==0.0.4
+pystoi==0.4.1
+speechbrain==1.1.0
