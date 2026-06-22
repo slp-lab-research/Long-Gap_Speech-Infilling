@@ -1,4 +1,4 @@
-# Audio-Only Speech Gap Infilling with VoiceCraft-X
+# Long-Gap Speech Infilling as a Testbed for Contextual Reasoning in Speech Language Models
 
 This repository contains the code for our GenAI final project:
 **audio-only long-gap speech infilling** with
